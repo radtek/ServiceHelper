@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Servers>
+    <Server Name="server.name" Service="Service Name" />
+    <Server Name="server.name" Service="Service Name" />
+  </Servers>
+  <StartWait>
+    <Milliseconds>300000</Milliseconds>
+  </StartWait>
+  <SerialStart>1</SerialStart>
+</Settings>
