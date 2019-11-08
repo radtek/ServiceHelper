@@ -1,2 +1,2 @@
 cd "C:\Temp\Utility"
-start ServiceHelper.exe stop -p
+start ServiceHelper.exe stop settings.xml
